@@ -1,6 +1,6 @@
 # 🦾 4-DOF Robotic Arm - Forward Kinematics
 
-Welcome aboard! This repository contains the **forward kinematics analysis** of a 4 Degrees of Freedom (DOF) robotic arm using **Denavit-Hartenberg (DH) Parameters** 🧠🔩.
+This repository contains the **forward kinematics analysis** of a 4 Degrees of Freedom (DOF) robotic arm using **Denavit-Hartenberg (DH) Parameters** 🧠🔩.
 
 ---
 
